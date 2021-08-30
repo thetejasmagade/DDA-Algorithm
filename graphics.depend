@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1630332116 source:c:\users\tejas\desktop\demo\graphics\main.cpp
+	<stdio.h>
+	<iostream>
+	<conio.h>
+	<math.h>
+	<stdlib.h>
+	<dos.h>
+	<graphics.h>
+
